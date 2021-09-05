@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const xml2js = require('xml2js');
 const axios = require('axios');
 const util = require('util');
