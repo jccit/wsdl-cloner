@@ -1,0 +1,11 @@
+{
+  "name": "wsdl-cloner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.3",
+    "xml2js": "^0.4.23",
+    "yargs": "^17.1.1"
+  }
+}
